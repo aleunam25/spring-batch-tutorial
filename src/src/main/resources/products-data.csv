@@ -1,0 +1,85 @@
+name,quantity,company,price,section
+Bar Cabinet,15,HomeStyle Furniture,399.99,Kitchen
+Sofa,50,Comfort Furniture,799.99,Living Room
+Coffee Table,30,Home Furnishings Inc.,199.99,Living Room
+TV Stand,25,Modern Home Designs,149.99,Living Room
+Bookshelf,40,Furniture Depot,99.99,Living Room
+Dining Table,20,Fine Living Furnishings,499.99,Dining Room
+Dining Chairs (Set of 4),50,Elite Home Decor,299.99,Dining Room
+Buffet Table,15,HomeStyle Furniture,399.99,Dining Room
+Kitchen Island,20,Chic Home Furnishings,449.99,Kitchen
+Bar Stools (Set of 2),40,Urban Living Concepts,129.99,Kitchen
+Bed Frame (Queen),30,Stylish Home Designs,499.99,Bedroom
+Nightstand,35,Modern Living Furnishings,99.99,Bedroom
+Dresser,25,Cozy Home Interiors,299.99,Bedroom
+Armchair,20,Designer Home Furniture,249.99,Study Room
+Desk,30,Elegant Living Essentials,199.99,Study Room
+Office Chair,25,Classic Furniture Co.,149.99,Study Room
+Shoe Rack,40,Home Decor Emporium,49.99,Entrance
+Coat Rack,30,Fashionable Home Furnishings,39.99,Entrance
+Console Table,25,Stylish Home Designs,149.99,Entrance
+Entryway Bench,20,Chic Home Furnishings,99.99,Entrance
+Console Cabinet,15,HomeStyle Furniture,199.99,Entryway
+Hallway Table,20,Modern Living Furnishings,79.99,Entryway
+Bed Frame (King),20,Comfort Furniture,699.99,Bedroom
+Vanity Table,15,Home Furnishings Inc.,299.99,Bedroom
+Jewelry Armoire,10,Fine Living Furnishings,199.99,Bedroom
+Accent Chair,30,Designer Home Furniture,179.99,Living Room
+End Table,40,Home Decor Emporium,59.99,Living Room
+Sideboard,25,Urban Living Concepts,349.99,Dining Room
+Bench,35,Elegant Living Essentials,99.99,Dining Room
+Kitchen Cart,20,Chic Home Furnishings,129.99,Kitchen
+Cabinet,25,Modern Living Furnishings,199.99,Kitchen
+Storage Ottoman,20,Furniture Depot,79.99,Living Room
+Loveseat,25,Comfort Furniture,499.99,Living Room
+Recliner,20,Modern Home Designs,349.99,Living Room
+Entertainment Center,15,Elite Home Decor,399.99,Living Room
+Bed Frame (Full),20,Stylish Home Designs,399.99,Bedroom
+Futon,25,Cozy Home Interiors,299.99,Study Room
+Desk Lamp,40,Elegant Living Essentials,29.99,Study Room
+Ceiling Fan,35,Classic Furniture Co.,149.99,Living Room
+Floor Lamp,30,Designer Home Furniture,79.99,Living Room
+Throw Pillows (Set of 2),50,Home Decor Emporium,19.99,Living Room
+Area Rug,40,Fashionable Home Furnishings,99.99,Living Room
+TV Console,25,Stylish Home Designs,199.99,Living Room
+Wall Clock,20,HomeStyle Furniture,49.99,Living Room
+Plant Stand,15,Modern Living Furnishings,69.99,Living Room
+Barbecue Grill,10,Urban Living Concepts,299.99,Outdoor
+Patio Dining Set,10,Chic Home Furnishings,799.99,Outdoor
+Outdoor Lounge Chair,20,Comfort Furniture,199.99,Outdoor
+Garden Bench,15,Fine Living Furnishings,149.99,Outdoor
+Poolside Umbrella,10,Elite Home Decor,99.99,Outdoor
+Fire Pit,10,Home Furnishings Inc.,299.99,Outdoor
+Outdoor Dining Table,10,Modern Home Designs,399.99,Outdoor
+Porch Swing,10,Furniture Depot,249.99,Outdoor
+Outdoor Storage Box,20,Stylish Home Designs,129.99,Outdoor
+Patio Heater,10,Designer Home Furniture,179.99,Outdoor
+Outdoor Bar Set,15,Classic Furniture Co.,499.99,Outdoor
+Gazebo,5,Home Decor Emporium,999.99,Outdoor
+Outdoor Rocking Chair,20,Fashionable Home Furnishings,149.99,Outdoor
+Outdoor Sofa Set,10,Urban Living Concepts,799.99,Outdoor
+Outdoor Coffee Table,15,Chic Home Furnishings,149.99,Outdoor
+Outdoor Ottoman,20,Comfort Furniture,99.99,Outdoor
+Outdoor Bench Cushion,25,Fine Living Furnishings,39.99,Outdoor
+Hammock,10,Elite Home Decor,129.99,Outdoor
+Patio Bar Stools (Set of 2),15,Home Furnishings Inc.,199.99,Outdoor
+Outdoor Rug,30,Modern Home Designs,79.99,Outdoor
+Outdoor Planters (Set of 3),25,Furniture Depot,59.99,Outdoor
+Outdoor Lounge Set,10,Stylish Home Designs,699.99,Outdoor
+Outdoor Dining Chair,20,Designer Home Furniture,89.99,Outdoor
+Outdoor Table Lamp,15,Classic Furniture Co.,109.99,Outdoor
+Outdoor Cushion Set,30,Home Decor Emporium,49.99,Outdoor
+Outdoor Serving Cart,10,Fashionable Home Furnishings,129.99,Outdoor
+Outdoor Barbecue Grill,15,Urban Living Concepts,399.99,Outdoor
+Outdoor Canopy Bed,5,Chic Home Furnishings,999.99,Outdoor
+Outdoor Swing Chair,10,Comfort Furniture,249.99,Outdoor
+Outdoor Lounge Bed,5,Fine Living Furnishings,899.99,Outdoor
+Outdoor Daybed,10,Elite Home Decor,749.99,Outdoor
+Outdoor Sectional Sofa,10,Home Furnishings Inc.,799.99,Outdoor
+Outdoor Dining Set,15,Modern Home Designs,599.99,Outdoor
+Outdoor Conversation Set,10,Furniture Depot,399.99,Outdoor
+Outdoor Fire Table,10,Stylish Home Designs,499.99,Outdoor
+Outdoor Bar Table,10,Designer Home Furniture,299.99,Outdoor
+Outdoor Folding Chairs (Set of 4),20,Classic Furniture Co.,249.99,Outdoor
+Outdoor String Lights,25,Home Decor Emporium,39.99,Outdoor
+Outdoor Bench,15,Fashionable Home Furnishings,40.00,Outdoor
