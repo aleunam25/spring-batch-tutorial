@@ -16,7 +16,7 @@ The inventory is read from a CSV file, processed to update the price of each pie
 ## Run locally
 ```bash
 git clone https://github.com/aleunam25/spring-batch-tutorial.git
-cd spring-petclinic
+cd spring-batch-tutorial
 mvn spring-boot:run
 ```
 
